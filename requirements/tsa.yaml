@@ -1,0 +1,7 @@
+name: tsa
+channels:
+  - conda-forge
+dependencies:
+  - argh
+  - numpy
+  - python=3.10
